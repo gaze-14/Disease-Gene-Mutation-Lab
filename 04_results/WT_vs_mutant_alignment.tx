@@ -1,1 +1,6 @@
+# Wild-type vs Mutant CFTR (F508del, c.1521_1523delCTT)
 
+WT:   ... ATC ATC TTT GGT GTT ...
+Mut:  ... ATC ATC     GGT GTT ...
+                 ^^^
+                 Deleted codon (CTT) → Phenylalanine (F508)
