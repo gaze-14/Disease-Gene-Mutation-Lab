@@ -76,7 +76,7 @@ This analysis was primarily based on nucleotide sequence translation and compari
 
 This project analyzed the human **TP53** gene and the effects of the documented **c.1010G>A** mutation on its encoded p53 protein. The normal TP53 sequence was translated to produce a 393-amino-acid protein. Artificial introduction of the documented nucleotide substitution changed one nucleotide and produced a missense amino acid substitution while maintaining the reading frame and overall protein length. The results demonstrate how a single nucleotide change can alter the amino acid sequence of a protein without causing a frameshift. Because p53 is an important tumor suppressor involved in cell-cycle arrest, DNA repair, apoptosis, and cellular stress responses, changes in its functional regions may affect these cellular processes. Overall, the sequence analysis supports a molecular pathway in which a TP53 nucleotide mutation can produce a protein-level change that may alter tumor-suppressor activity and contribute to abnormal cellular behavior.
 
-## 54. References
+## References
 
 National Center for Biotechnology Information (NCBI). **TP53 tumor protein p53 [Homo sapiens]**. NCBI Gene.
 
